@@ -5,20 +5,23 @@ The objective of this project is to forecast the number of app installs based on
 ## Dataset
 The dataset used for this project provides a comprehensive view of app-related information, with 10,841 records across 13 columns:
 
-## Column	Description
-App	Name of the app
-Category	App category
-Rating	Average user rating
-Reviews	Total number of user reviews
-Size	Size of the app
-Installs	Total installs
-Type	Free or Paid
-Price	Price of the app (if paid)
-Content Rating	Age group for the app
-Genres	Genres of the app
-Last Updated	Date of last update
-Current Ver	Current version
-Android Ver	Minimum Android version required
+| **Column**         | **Description**                        |  
+|---------------------|----------------------------------------|  
+| App                | Name of the app                       |  
+| Category           | App category                          |  
+| Rating             | Average user rating                   |  
+| Reviews            | Total number of user reviews          |  
+| Size               | Size of the app                       |  
+| Installs           | Total installs                        |  
+| Type               | Free or Paid                          |  
+| Price              | Price of the app (if paid)            |  
+| Content Rating     | Age group for the app                 |  
+| Genres             | Genres of the app                     |  
+| Last Updated       | Date of last update                   |  
+| Current Ver        | Current version                       |  
+| Android Ver        | Minimum Android version required      |  
+
+
 ## Key Statistics
 Total Apps: 9,349
 Total Installs: 128 billion
